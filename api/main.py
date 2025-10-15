@@ -10,4 +10,4 @@ def default_route():
     """
     This is the default endpoint for this for backend
     """
-return
+return { "You have reached the default route. Back-end server is listening..."}
